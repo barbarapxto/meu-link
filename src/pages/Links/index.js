@@ -18,7 +18,7 @@ function Links(){
                     https://sujeitoprogramador.com
                 </button>
                 <button className="link-delete">
-                    <FiTrash size={24} color="#FF5454"/>
+                    <FiTrash size={24} color="#FF5454" />
                 </button>
             </div>
 

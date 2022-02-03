@@ -1,0 +1,25 @@
+.container-error{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.container-error img{
+    max-width: 300px;
+}
+
+.container-error h1{
+    margin: 25px 0;
+}
+
+.container-error a{
+    background-color: #fff;
+    color:#1a1a1a;
+    padding: 10px 20px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: bold;
+}

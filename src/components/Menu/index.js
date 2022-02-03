@@ -5,11 +5,11 @@ import { Link } from 'react-router-dom';
 function Menu(){
     return(
         <div className="menu"> 
-            <a className="social" target="_blank" href="https://youtube.com/c/sujeitoprogramador">
+            <a className="social" target="_blank" rel="noreferrer" href="https://youtube.com/c/sujeitoprogramador">
                 <BsYoutube size={24} color="#fff"/>
             </a>
             
-            <a className="social" target="_blank" href="https://instagram.com/sujeitoprogramador">
+            <a className="social" target="_blank" rel="noreferrer" href="https://instagram.com/sujeitoprogramador">
                 <BsInstagram size={24} color="#fff"/>
             </a>
             
