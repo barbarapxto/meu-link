@@ -1,0 +1,25 @@
+header{
+    width: 100%;
+}
+
+.menu{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 95%;
+    margin-top: 20px;
+}
+
+.social{
+    margin-left:15px;  
+}
+
+.menu-button{
+    background-color: #fff;
+    padding: 10px 20px;
+    border-radius: 4px;
+    margin-left:15px;
+    text-decoration: none;
+    color: #1a1a1a;
+    font-weight: bold;
+}
