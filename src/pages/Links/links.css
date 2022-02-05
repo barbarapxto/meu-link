@@ -69,3 +69,8 @@
     }
 }
 
+.empty-message{
+    margin-top: 50px;
+    color: rgb(255, 255, 255, .8);
+    text-align: center;
+}
