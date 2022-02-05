@@ -1,5 +1,9 @@
-# Getting Started with Create React App
+# Sujeito Link
+<p>Projeto ReactJS desenvolvido na Semana React JS, promovido pelo canal <a href="https://www.youtube.com/c/sujeitoprogramador" target="_blank">Sujeito Programador</a>.</p> 
+<p>O projeto consiste em um encurtador de links, utilizando a API do site <a href="https://bitly.com/" target="_blank">Bitly</a>.</p>
 
+
+---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
